@@ -21,12 +21,8 @@ Made by .nikye. on Discord
 On Ubuntu/Debian:
 sudo apt-get install python3-tk
 
-text
-
 On macOS:
 brew install python-tk
-
-text
 
 On Windows: It's already there.
 
